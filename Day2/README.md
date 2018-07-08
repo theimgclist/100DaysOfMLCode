@@ -11,6 +11,7 @@
 * faster_rcnn_inception_v2_coco_2018_01_28 did a much better job!  
 * It missed the traffic light  which Yolo was able to detect  
 * Below image compares the results of yesterday's ssdlite model with today's faster_rcnn  
+* Image on left shows ssdLite's output and the one on right is faster_rcnn's
 
 <p><img src="https://raw.githubusercontent.com/theimgclist/100DaysOfMLCode/master/images/ssdvsfrcnn.png"/></p>   
 
