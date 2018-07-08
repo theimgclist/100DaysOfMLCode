@@ -1,5 +1,9 @@
-# 100DaysOfMLCode
-This repository will be the journal for 100DaysOfMLCode pledge started by Siraj.  
+# 100DaysOfMLCode  
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Who’s ready to take the 100 days of ML code challenge? That means coding machine learning for at least an hour everyday for the next 100 days. Pledge with the <a href="https://twitter.com/hashtag/100DaysOfMLCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfMLCode</a> hashtag, I’ll give the first few winners a shoutout!</p>&mdash; Siraj Raval (@sirajraval) <a href="https://twitter.com/sirajraval/status/1014758160572141568?ref_src=twsrc%5Etfw">July 5, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+The above tweet explains how this repo started. This will be the journal for 100DaysOfMLCode pledge. I will add the progress I make everyday and will publish the code at regular intervals once I make enough progress with some task/problem.  
 
 | Day        | Task           |   Updates      |   
 | ------------- |:-------------|  :---------------- |  
