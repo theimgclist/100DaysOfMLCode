@@ -7,4 +7,5 @@ The above tweet explains how this repo started. This will be the journal for 100
 | Day        | Task           |   Updates      |   
 | ------------- |:-------------|  :---------------- |  
 | [Day 1](https://github.com/theimgclist/100DaysOfMLCode/tree/master/Day1) | Object Detection-Windows 10 |* Set up the environment on Windows 10(no GPU) </br> * Used TensorFlow and pre-trained SSDMobileNet </br> * Compared results with Yolo object detection |  
-| [Day 2](https://github.com/theimgclist/100DaysOfMLCode/tree/master/Day2) | Object Detection-Ubuntu |* Set up the environment on Ubuntu(no GPU) </br> * Used TensorFlow and pre-trained FasterRCNN model </br> * Compared SSDLite with FasterRCNN |
+| [Day 2](https://github.com/theimgclist/100DaysOfMLCode/tree/master/Day2) | Object Detection-Ubuntu |* Set up the environment on Ubuntu(no GPU) </br> * Used TensorFlow and pre-trained FasterRCNN model </br> * Compared SSDLite with FasterRCNN |  
+| [Day 3](https://github.com/theimgclist/100DaysOfMLCode/tree/master/Day3) | Real Time Object Detection |* Installed opencv </br> * Used TensorFlow and pre-trained SSDlite model </br> * Tried object detection on live camera feed |
