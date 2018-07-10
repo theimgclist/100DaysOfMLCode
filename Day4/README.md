@@ -18,5 +18,5 @@
 * Do you prefer cats or dogs to birds? Sure! Run the notebook and upload your image of interest and see if the model can detect it.    
 
 **What to try next :**  
-* No, not a hotdog detector!  
+* No, not a hotdog detector :D 
 * Create a dataset for gun detector!
