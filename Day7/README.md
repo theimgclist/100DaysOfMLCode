@@ -9,7 +9,7 @@
 * It was also recommended in one of the videos I found on YouTube  
 * Using the tool, I was able to quickly annotate the image  
 * For every image in the dataset, I should draw a bounding box around the object of interest  
-* And then input the object's classe name  
+* And then input the object's class name  
 * In this example, gun will be the object class    
 
 * <p align="center"><img src="https://raw.githubusercontent.com/theimgclist/100DaysOfMLCode/master/images/annotation.gif"/></p>  
