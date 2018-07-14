@@ -1,7 +1,7 @@
 **Day 8 - 14th July, 2018:** Tried training on new dataset  
 * Training TensorFlow Object Detection on a new API needs few changes to be done  
 * Followed the instructions and made the necessary configuration changes  
-* Faced few issues which I was able to resolve using GitHus Issues  
+* Faced few issues which I was able to resolve using GitHub Issues  
 * All this took sometime  
 * When training did start, there was OOM error  
 * OOM is out of memory error  
