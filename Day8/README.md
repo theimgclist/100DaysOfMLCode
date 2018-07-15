@@ -1,5 +1,5 @@
 **Day 8 - 14th July, 2018:** Tried training on new dataset  
-* Training TensorFlow Object Detection on a new API needs few changes to be done  
+* Training TensorFlow Object Detection on a new dataset needs few changes to be done  
 * Followed the instructions and made the necessary configuration changes  
 * Faced few issues which I was able to resolve using GitHub Issues  
 * All this took sometime  
@@ -12,7 +12,7 @@
 * I first thought I should try running it on Colab, since it provides GPU    
 * Before that I wanted to try if I can still do the training locally    
 * The batch size was set to 24    
-* Reducing the batch size will help when running on limited computation    
+* Reducing the batch size helps when running on limited computation    
 * I changed the batch size from 24 to 12   
 * And it worked, training started   
 * The trade off is that with reduced batch size, it takes more time to train    
