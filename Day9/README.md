@@ -16,6 +16,6 @@
 * But that needs more memory and computation  
 
 **What to try next :**  
-* Continue the trainig   
+* Continue the training   
 * Tweak the model if necessary  
 
