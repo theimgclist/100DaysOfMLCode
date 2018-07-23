@@ -1,7 +1,7 @@
 **Day 17 - 23rd July, 2018:** Read about Face Processing 
 * Read about how face detection, recognition and other face processing tasks work   
 * Face image consists of several processing components  
-* Shape of the face, reflectance and illuminance are three major components  
+* Shape of the face, Albedo and reflectance are three major components  
 * Albedo map captures variations in skin pigmentation which is affected by blood flow beneath the skin  
 * On a high level, the facial features are extracted and mapped to some latent space   
 * Reflectance is the amount of incident energy that gets reflected from the surface  
@@ -10,7 +10,7 @@
 * Detecting/Recognising a human face in an unconstrained environment is more complex  
 * In case of unconstrained environment, a lot of external factors are dynamic  
 * Comparatively face processing in a constrained environment is easier  
-* In such a case, there will be some agreed upon standards in which the activity is tried  
+* In such a case, there will be some agreed upon standards in which the activity is carried out    
 
 **Some useful links:**  
 * [Inverse rendering](https://graphics.stanford.edu/papers/invrend/)  
