@@ -7,7 +7,7 @@
 * One such application of DL is Face Editing and Reconstruction  
 * If you ever used Photoshop or know what it does, you can now do some of those things using DL  
 * In a typical photo editing application, getting to the end result takes some series of effects that need to be applied  
-* All of this can be simplified and made faster using Deep Learning approaches  
+* It can be simplified using Deep Learning approaches  
 * Read few papers that are related to face editing using neural networks  
 * There is a lot of Physics involved in face processing!
 
