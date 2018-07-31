@@ -28,4 +28,4 @@
 
 **What to try next :**   
 * Get into the details of Kaggle Competition  
-* Read more about face processing and the Physics involved  
+* Try Blender using the tutorials  
