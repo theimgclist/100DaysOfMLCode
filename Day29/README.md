@@ -2,7 +2,8 @@
 
 **Problem :** Given a face image, build a network to decompose it into its intrinsic components like Normal, Albedo and Shade and reconstruct the image using the decomposed components  
 **Input** : Face images from synthetic and real world data    
-**Output** : Network outputs the reconstructed image with an objective to make it look as close and realistic to the original input image as possible. The same network can also be used for relighting the input image, light transfer between a source and target image    
+**Output** : Network outputs the reconstructed image with an objective to make it look as close and realistic to the original input image as possible. The same network can also be used for relighting the input image, light transfer between a source and target image   
+ 
 **STEP A : Training the encoder-decoder network with skip connections(**T<sub>E</sub>**)for ground truth values  :**  
 1. Train **T<sub>E</sub>** for face image decomposition using synthetic data with ground truth labels(**supervision**)  
 2. Use the trained network **T<sub>E</sub>** to obtain normal, albedo and light estimates for real data images which dont have ground truth labels    
@@ -18,3 +19,5 @@
 8.  Shading of the image **S** is calculated using the normal map **N<sub>m</sub>** and **SH** of light component    
 9.  Shading **S** and albedo map **A<sub>m</sub>** together are used for face image reconstruciton    
 10.  Reconstruction loss function is used to learn image reconstruction and also to learn from real world data  
+
+<p><img src="https://raw.githubusercontent.com/theimgclist/100DaysOfMLCode/master/images/sfsnet.png"/></p>
