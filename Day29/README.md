@@ -1,7 +1,5 @@
 **Day 29 - 8th Aug, 2018:** Compact Pseudocode for SfSNet  
 
-**Day 29 - 8th Aug, 2018:** Compact Pseudocode for SfSNet  
-
 **Problem :** Given a face image, build a network to decompose it into its intrinsic components like Normal, Albedo and Shade and reconstruct the image using the decomposed components  
 **Input** : Face images from synthetic and real world data    
 **Output** : Network outputs the reconstructed image with an objective to make it look as close and realistic to the original input image as possible. The same network can also be used for relighting the input image, light transfer between a source and target image    
