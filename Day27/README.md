@@ -2,7 +2,7 @@
 
 **What are albedo maps?**  
 * It took some time to understand normal maps, especially how the blue/green/red shades are painted in the 2D normal map    
-* ALbedo maps on the other hand are easy to understand    
+* Albedo maps on the other hand are easy to understand    
 * Since textures are the images applied on the surface of a mesh/object which are subjected to different light conditions, it is best to remove any existing highligts,shadows, light elements from the 2D textures before applying them to the surface so that the light components can be rendered accordingly in the scene  
 * Albedo maps are like diffuse maps from which the highlights, shadows and light patches are removed    
 * This gives an even/homogeneous layer with only the color component  

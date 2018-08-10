@@ -3,7 +3,7 @@
 **What is Reflectance?**  
 * Reflectance is the property of a material using which it reflects light or other forms of energy, incident on its surface  
 * Keeping the light source, direction and energy constant, different materials show different properties of reflectance  
-*  Hence reflectance is an important factor in determining/inferring the type of material 
+* Hence reflectance is an important factor in determining/inferring the type of material 
 * Observing the reflectance helps in better scene understanding as it gives very useful information like material type, whether the scene is indoors/outdoors and also in predicting how the objects would appear in a novel scene
 * This applies to human faces too as the reflectance from human face vary from person to person and depends on several factors  
 * Any feature that adds to or helps in encoding a human face into a unique representation, in turn helps in performing facial recognition 
