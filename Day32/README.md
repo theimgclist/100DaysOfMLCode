@@ -30,4 +30,3 @@
 **Some Useful Links :**  
 * [GitHub - lutzroeder/Netron: Visualizer for deep learning and machine learning models](https://github.com/lutzroeder/Netron)
 * [GitHub - davisking/dlib: A toolkit for making real world machine learning and data analysis applications in C++](https://github.com/davisking/dlib)
-* 
