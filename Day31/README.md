@@ -10,17 +10,15 @@
 * The above chart shows how different components of the architecture are connected and the loss functions used  
 * Thanks to my team - Ankita and Shreyas who helped in putting things together    
 * Read few other papers which really helped in understanding inverse rendering better  
-* 
-<p><img src="https://raw.githubusercontent.com/theimgclist/100DaysOfMLCode/master/images/autoencoder.png"/></p>  
+* In Neural Face Editing, the authors have used Generative Adversarial Network for infering intrinsic face properties like shape, albedo, lighting etc  
+* In addition to these, given an input image, this network also performs other tasks like face editing by manipulating face expressions, age, eyewear etc  
+* The encoder-decoder network used by SfSNet for obtaining ground truth values of intrinsic face components for real world face data is built using Neural Face Editin paper     
+<p><img src="https://raw.githubusercontent.com/theimgclist/100DaysOfMLCode/master/images/faceediting.PNG"/></p>    
 
-* AutoEncoders can be used for input denoising  
-* In this case, the input image to the autoencoder will be an image or other data with some noise  
-* From its prior learning, the autoencoder helps in denoising the input image    
+* InverseFaceNet is another research paper with some related work  
+* Given a single image, the method proposed in this paper jointly estimates facial shape, pose, expression, reflectance 
+* This and similar works help in face decomposition, reconstruction, makes image editing easy, can be used in face recognition, improving image resolution etc  
 
-<p><img src="https://raw.githubusercontent.com/theimgclist/100DaysOfMLCode/master/images/denoising.png"/></p>  
-
-* Though autoencoders can be used for data compression, they are not as efficient as existing compression methods  
-* Autoencoders are currently used for dimensionality reduction and denoising  
-
-**Some useful links:**
-Excellent article on Medium by Arden Dertat - [Applied Deep Learning - Part 3: Autoencoders – Towards Data Science](https://towardsdatascience.com/applied-deep-learning-part-3-autoencoders-1c083af4d798)
+**Some Useful Links :**  
+* [InverseFaceNet: Deep Monocular Inverse Face Rendering](https://arxiv.org/abs/1703.10956)  
+* [Neural Face Editing with Intrinsic Image Disentangling](https://arxiv.org/abs/1704.04131)
