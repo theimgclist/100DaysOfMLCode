@@ -16,5 +16,4 @@
 
 * Here is a blog that I published - [A Day in TensorFlow Roadshow – Towards Data Science](https://towardsdatascience.com/a-day-in-tensorflow-roadshow-dae64b470fe7)
 
-
-
+<p><img src="https://raw.githubusercontent.com/theimgclist/100DaysOfMLCode/master/images/TensorFlow.jpg"/></p>  
