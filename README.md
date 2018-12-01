@@ -58,4 +58,14 @@ The above tweet explains how this repo started. This will be the journal for 100
 | [Day 68-70](https://github.com/theimgclist/100DaysOfMLCode/tree/master/Day68-70) |InOut - 2Day Hackathon |* Participated in 2-Day hackathon</br> * Built a web app for check-in and check-out</br> * Applied Deep Learening model for face verification</br> * Had a wonderful time |
 | [Day 71-77](https://github.com/theimgclist/100DaysOfMLCode/tree/master/Day71-77) |Identity Management using Deep Learning |* Transformed webapp from hackathon into Identity Management application</br> * Register new user</br> * Verify user against registered users and show user details</br> * More features to be added </br> * [Demo](https://www.youtube.com/watch?v=4_b7UZNCqJ8)|
 | [Day 78-79](https://github.com/theimgclist/100DaysOfMLCode/tree/master/Day78-79) |Fast.ai Lecture 1(on-going course) </br>AMP Roadshow |* Attended fast.ai lecture1 live stream</br> * Taking fast.ai is refreshing</br> * Fast.ai forum is the best</br> * Attended AMP Roadshow </br> * AMP is for making web faster and friendlier|
-| [Day 80-87](https://github.com/theimgclist/100DaysOfMLCode/tree/master/Day80-87) |Fast.ai Lecture 2</br> InOut Bog|* [Published blog on InOut hackathon](https://towardsdatascience.com/inout-learnings-from-2-day-hackathon-6d1196410298)</br> * Fast.ai Lecture 2</br> * So many interesting projects from students</br> * Got extra $500 GCP credits </br> * [Crestle.ai](https://www.crestle.ai) provides Jupyter notebook with GPU backend for free|
+| [Day 80-87](https://github.com/theimgclist/100DaysOfMLCode/tree/master/Day80-87) |Fast.ai Lecture 2</br> InOut Blog|* [Published blog on InOut hackathon](https://towardsdatascience.com/inout-learnings-from-2-day-hackathon-6d1196410298)</br> * Fast.ai Lecture 2</br> * So many interesting projects from students</br> * Got extra $500 GCP credits </br> * [Crestle.ai](https://www.crestle.ai) provides Jupyter notebook with GPU backend for free|
+| [Day 88-100](https://github.com/theimgclist/100DaysOfMLCode/tree/master/Day88-100) |Fast.ai Live Classes</br> Self Driving Car Nanodegree Scholarhip|* Continued Fast.ai ongoing classes</br> * Received Udacity and KPIT SDC Scholarship</br> * [The Great Robot Race](https://www.youtube.com/watch?v=vCRrXQRvC_I) is an interesting documentary</br> * [Finished Project 1 - Finding Lanes](https://www.youtube.com/embed/BM80KgOlOXM)  </br> * Learning has become more accessible, interesting and fun!! |  
+
+
+Now that I have successfully finished **#100DaysOfMLCode** challenge, the biggest takeaway from all the learning, practice and projects I have done so far would be the fact that there is so much more to learn, practice and try out!!
+
+Learning has never been more easily accessible than it is now. Thanks to the universities, researchers, teachers and the wonderful community which make the emerging technologies and knowledge, available to anyone who is willing to learn.  
+
+Many, many and many more days of learning, practicing and trying fun and interesting projects ahead!! 
+
+Thank you [Siraj Raval](https://twitter.com/sirajraval)! &#128516; &#128516;
