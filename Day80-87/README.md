@@ -1,4 +1,4 @@
-**Day 80 to 87 - Nov 5th to 12th , 2018:** Fast.ai - Lecture - 2(on-going course), InOut Bog
+**Day 80 to 87 - Nov 5th to 12th , 2018:** Fast.ai - Lecture - 2(on-going course), InOut Blog
 
 * Published a blog on InOut 2018, a 2-days hackathon
 * It was a wonderful experience which was not only productive but also gave an opportunity to network  
